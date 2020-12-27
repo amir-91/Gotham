@@ -24,9 +24,26 @@
               "src/assets"
             ],
             "styles": [
+              
+              "src/assets/css/nivo-lightbox/nivo-lightbox.css",
+              "src/assets/css/bootstrap.css",
+              "src/assets/css/style.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery.1.11.1.js",
+              "src/assets/js/bootstrap.js",
+              "src/assets/js/jquery.isotope.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/contact_me.js",
+              "src/assets/js/jqBootstrapValidation.js",
+              "src/assets/js/main.js",
+              "src/assets/js/nivo-lightbox.js",
+              "src/assets/js/SmoothScroll.js",
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -87,6 +104,10 @@
               "src/assets"
             ],
             "styles": [
+              
+              
+              "src/assets/css/style.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
